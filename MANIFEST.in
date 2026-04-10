@@ -1,0 +1,2 @@
+include MANIFEST.in
+recursive-include erpnext_tally_sync *.json *.js *.css *.html *.py *.txt *.md
